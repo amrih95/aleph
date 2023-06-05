@@ -1,0 +1,14 @@
+{
+    "user": {
+        "name": "Nama",
+        "phone": "Telepon",
+        "email": "Alamat Email",
+        "addres1": "Alamat Pertama",
+        "addres2": "Alamat Kedua",
+        "postCode": "Kode POS",
+        "city": "Kota",
+        "action": "Aksi",
+        "detail": "Lihat Detail"
+    },
+    "language": "Pilih Bahasa"
+}

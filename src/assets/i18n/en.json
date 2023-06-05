@@ -1,0 +1,15 @@
+{
+    "user": {
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "addres1": "First Address",
+        "addres2": "Second Address",
+        "postCode": "PostCode",
+        "city": "City",
+        "action": "Action",
+        "detail": "See Detail"
+    },
+    "language": "Select Language"
+}
+    

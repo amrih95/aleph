@@ -1,0 +1,11 @@
+.detail-wrapper {
+    border: 1px solid #dddd;
+    padding: 40px;
+    width: 28%;
+    .content {
+        display: flex;
+        p{
+            margin-right: 20px;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="language">
+      <form [formGroup]="contactForm" >
+        <select class="form-control" formControlName="country" (change)="onCountryChanged($event)">
+          <option [value]="null" disabled>{{'language' | translate}}</option>
+          <option *ngFor="let country of countries" [value]="country.id">{{country.name}}</option>
+        </select>
+      </form>
+    </div>
+  </div>  
